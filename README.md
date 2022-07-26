@@ -1,4 +1,13 @@
-<!--
+test project buildsystems
+#####################################################
+.. image:: https://travis-ci.org/OpenVPN/openvpn-build.svg?branch=master
+  :target: https://travis-ci.org/OpenVPN/openvpn-build
+  :alt: TravisCI status
+.. image:: https://ci.appveyor.com/api/projects/status/github/OpenVPN/openvpn-build?branch=master&svg=true
+  :target: https://ci.appveyor.com/project/mattock/openvpn-build
+  :alt: AppVeyor status
+  
+  <!--
   <<< Author notes: Header of the course >>>
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
