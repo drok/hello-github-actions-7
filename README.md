@@ -1,11 +1,11 @@
-<!--
+  <!--
   <<< Author notes: Header of the course >>>
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Hello GitHub Actions
+# Hello GitHub Actions - DONE
 
 _Create a GitHub Action and use it in a workflow._
 
@@ -175,7 +175,7 @@ In our action, we post a comment on the pull request using a [bash](https://en.w
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Merge your workflow file</h2></summary>
 
 _You're now able to write and run an Actions workflow! :sparkles:_
@@ -224,7 +224,7 @@ Your new action will run any time a new commit is created or pushed to the remot
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
