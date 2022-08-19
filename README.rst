@@ -7,3 +7,4 @@ test project buildsystems
   :target: https://ci.appveyor.com/project/mattock/openvpn-build
   :alt: AppVeyor status
   
+Testing a new pull request #2
